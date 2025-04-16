@@ -11,7 +11,17 @@ git add abc.txt
 
 git add .
 ```
-# then write this command with message that you like to add during your commit
+# then write this command with message that you like to add during your commit.
 ```
 git commit -m "this is my first commit"
+```
+# whatever changes you have commited on gitgub if you want to see it your vscode environment you use "git pull" command.
+
+```
+git pull
+```
+# create your own script shell file
+
+```
+bash your_own_name.sh
 ```
