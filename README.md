@@ -11,6 +11,7 @@ git add abc.txt
 
 git add .
 ```
+# then write this command with message that you like to add during your commit
 ```
 git commit -m "this is my first commit"
 ```
