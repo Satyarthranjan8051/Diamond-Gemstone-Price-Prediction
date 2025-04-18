@@ -6,10 +6,10 @@
 echo [$(date)]: "Starting initial setup of the project..."
 
 echo [$(date)]: "Creating env with python 3.9.13 version..."
-python -m venv ./env
+python -m venv env
 
 echo [$(date)]: "Activating the environment..."
-source ./env/scripts/activate
+source env/scripts/activate
 
 echo [$(date)]: "Installing the dev requirements..."
 pip install -r requirements.txt
