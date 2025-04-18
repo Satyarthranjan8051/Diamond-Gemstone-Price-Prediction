@@ -25,3 +25,13 @@ git pull
 ```
 bash your_own_name.sh
 ```
+# now install you local package using setup.py
+
+```
+python setup.py
+```
+# another way to do that you can add command in your reqirements.txt 
+
+```
+e .
+```
