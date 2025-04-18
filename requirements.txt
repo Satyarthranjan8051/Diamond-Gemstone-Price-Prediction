@@ -6,4 +6,4 @@ seaborn
 scipy
 
 # another way to install the package in editable mode is to use the follwing command:
--e .
+# -e . 
